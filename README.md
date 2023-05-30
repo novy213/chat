@@ -2,8 +2,8 @@
 Chat - Chat - an application that allows us to communicate between 2 computers online.<br>
 The application consists of 2 modules (server part and user part).<br>
 The server part is made in the php Yii2 framework and the user part in the WPF framework, application uses rest Api.<br>
-[Wpf repo](https://github.com/novy213/todo-user) <br>
-[Server repo](https://github.com/novy213/todo-server) <br>
+[Wpf repo](https://github.com/novy213/chat-user) <br>
+[Server repo](https://github.com/novy213/chat-server) <br>
 ## Data range:
 User: each user will have the following fields:<br>
 - id
